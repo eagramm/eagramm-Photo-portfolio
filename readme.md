@@ -1,5 +1,9 @@
-# Git Course
+# Photo Portifolio
 
-Este é um repositorio teste para aprender como o git funciona.
+> A simple project to learn how to use Git.
 
-Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
+Big Picture by HTML5 UP
+
+html5up.net | @ajlkn
+
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
