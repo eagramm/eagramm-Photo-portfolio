@@ -1,6 +1,6 @@
 # Photo Portifolio
 
-> A simple project to learn how to use Git.
+> A simple project to learn how to use Git in real life.
 
 Big Picture by HTML5 UP
 
